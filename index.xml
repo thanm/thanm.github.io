@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Than&#39;s blog</title>
+    <link>http://localhost:1313/blog/</link>
+    <description>Recent content on Than&#39;s blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 15 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A first posting on my trans-am blog</title>
+      <link>http://localhost:1313/blog/posts/15_april_2025/</link>
+      <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/posts/15_april_2025/</guid>
+      <description>&lt;p&gt;Hi all, welcome to the blog I&amp;rsquo;m keeping to document the Trans-America bike ride I&amp;rsquo;m doing this summer. Although I&amp;rsquo;ve created a lot of content using &lt;a href=&#34;https://www.blogger.com/&#34;&gt;Blogger/Blogspot&lt;/a&gt;, I decided this time around to &amp;ldquo;roll my own&amp;rdquo; so as to have a bit more control (you can click on the &amp;ldquo;about&amp;rdquo; link above for more of the grubby details).&lt;/p&gt;&#xA;&lt;p&gt;A photo of my trusty bike:&lt;/p&gt;&#xA;&lt;iframe src=&#34;https://drive.google.com/file/d/1jJrArLVhnGpVSTUgu6jqAlPfBw9TKDoa/preview&#34; width=&#34;640&#34; height=&#34;480&#34; allow=&#34;autoplay&#34;&gt;&lt;/iframe&gt;&#xA;&#xA;&lt;p&gt;This is a &lt;a href=&#34;https://www.salsacycles.com/products/2022-cutthroat-c-grx-810-2x&#34;&gt;Salsa Cutthroat&lt;/a&gt;, a bike in theory designed for long-distance gravel rides (in particular the &lt;a href=&#34;https://tourdivide.org/&#34;&gt;Tour Divide&lt;/a&gt; route).  Carbon fiber frame to keep the weight down, but in other respects a high level of sturdiness for dealing with rough roads and such.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About this blog</title>
+      <link>http://localhost:1313/blog/about/</link>
+      <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/about/</guid>
+      <description>&lt;p&gt;This blog is my first foray into using the static web site generator &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;, in combination with a custom domain from &lt;a href=&#34;https://www.squarespace.com/&#34;&gt;Squarespace&lt;/a&gt; and some help from &lt;a href=&#34;https://pages.github.com/&#34;&gt;Github Pages&lt;/a&gt;. There are a zillion different ways to write blogs these days and even more ways to host/serve them, but for better or worse this is what I&amp;rsquo;ve picked out. For now :-).&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve intentionally set up a robots.txt file to disable search engine indexing, so in theory it should not get crawled by Google or any other search engine (this is mainly in the interests of privacy, since I&amp;rsquo;ll be posting photos of myself and other riders at various points).&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
